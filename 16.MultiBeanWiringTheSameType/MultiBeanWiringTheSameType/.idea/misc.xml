@@ -5,9 +5,6 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/../../CustomBeanName/CustomBeanName/pom.xml" />
-        <option value="$PROJECT_DIR$/../../15.BeanWiringUsingAutoWireOnConstructor/BeanWiringUsingAutoWireOnConstructor/pom.xml" />
-        <option value="$PROJECT_DIR$/../../16.MultiBeanWiringTheSameType/MultiBeanWiringTheSameType/pom.xml" />
       </list>
     </option>
   </component>
