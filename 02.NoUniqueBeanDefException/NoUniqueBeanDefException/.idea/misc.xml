@@ -6,11 +6,7 @@
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/../../CustomBeanName/CustomBeanName/pom.xml" />
-        <option value="$PROJECT_DIR$/../../15.BeanWiringUsingAutoWireOnConstructor/BeanWiringUsingAutoWireOnConstructor/pom.xml" />
-        <option value="$PROJECT_DIR$/../../16.MultiBeanWiringTheSameType/MultiBeanWiringTheSameType/pom.xml" />
-        <option value="$PROJECT_DIR$/../../02.NoUniqueBeanDefException/NoUniqueBeanDefException/pom.xml" />
-        <option value="$PROJECT_DIR$/../../03.CustomBeanName/CustomBeanName/pom.xml" />
-        <option value="$PROJECT_DIR$/../../04.PrimaryAnnotation/PrimaryAnnotation/pom.xml" />
+        <option value="$PROJECT_DIR$/../../PrimaryAnnotation/PrimaryAnnotation/pom.xml" />
       </list>
     </option>
   </component>
