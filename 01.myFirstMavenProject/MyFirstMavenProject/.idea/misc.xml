@@ -11,6 +11,8 @@
         <option value="$PROJECT_DIR$/../../02.NoUniqueBeanDefException/NoUniqueBeanDefException/pom.xml" />
         <option value="$PROJECT_DIR$/../../03.CustomBeanName/CustomBeanName/pom.xml" />
         <option value="$PROJECT_DIR$/../../04.PrimaryAnnotation/PrimaryAnnotation/pom.xml" />
+        <option value="$PROJECT_DIR$/../../05.ComponentAnnotation/ComponentAnnotation/pom.xml" />
+        <option value="$PROJECT_DIR$/../../17.MultiBeanWiringTheSameType_part2/MultiBeanWiringTheSameType_part2/pom.xml" />
       </list>
     </option>
   </component>
