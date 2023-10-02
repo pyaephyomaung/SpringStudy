@@ -14,6 +14,7 @@
         <option value="$PROJECT_DIR$/../../05.ComponentAnnotation/ComponentAnnotation/pom.xml" />
         <option value="$PROJECT_DIR$/../../17.MultiBeanWiringTheSameType_part2/MultiBeanWiringTheSameType_part2/pom.xml" />
         <option value="$PROJECT_DIR$/../../18.CircularDependencyException/CircularDependencyException/pom.xml" />
+        <option value="$PROJECT_DIR$/../../19.Assignment-Bean-Wiring-DI/Assignment-Bean-Wiring-DI/pom.xml" />
       </list>
     </option>
   </component>
